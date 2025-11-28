@@ -1,6 +1,6 @@
 
 /*
-let todo1 = 'i love Laeticia';
+let todo1 = 'game';
 let todo2 = 'wash car';
 let todo3 = 'Make dinner';
 */
